@@ -1,0 +1,8 @@
+{
+"server":"cloud_ip",
+"server_port":port_num,
+"local_port":1080,
+"password":"password",
+"timeout":300,
+"method":"aes-256-cfb"
+}
