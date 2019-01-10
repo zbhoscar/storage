@@ -1,12 +1,7 @@
-#!/usr/bin/env xdg-open
-
 [Desktop Entry]
-Version=3.4
 Type=Application
-Name=Pycharm3
+Name=PyCharm Community Edition
 Icon=/snap/pycharm-community/current/bin/pycharm.png
-Exec="/snap/pycharm-community/current/bin/pycharm.sh" %f
-Comment=The Drive to Develop
+Exec=pycharm-community
 Categories=Development;IDE;
 Terminal=false
-Name[en_US]=PyCharm Community Edition
